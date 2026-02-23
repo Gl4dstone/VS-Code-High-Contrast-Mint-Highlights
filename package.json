@@ -17,5 +17,10 @@
         "path": "./themes/High Contrast Mint-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": 
+    {
+      "url": "https://github.com/Gl4dstone/VS-Code-High-Contrast-Mint-Highlights"
+  },
+  "publisher": "8347cc66-48c9-6323-b190-b8a2c4a54f74" 
 }
