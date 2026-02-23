@@ -1,7 +1,7 @@
 {
   "name": "high-contrast-mint",
   "displayName": "High Contrast Mint",
-  "description": "WOOOOOORK",
+  "description": "A first attempt at a Dark High Contrast theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.109.0"
